@@ -1,0 +1,159 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RobotClub.DormitoryReport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FontPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ipaexm.ttf</Value>
+    </Setting>
+    <Setting Name="NameX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">405</Value>
+    </Setting>
+    <Setting Name="NameY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">643</Value>
+    </Setting>
+    <Setting Name="NameFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="TemplatePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DormitoryReportTemplate.pdf</Value>
+    </Setting>
+    <Setting Name="LeaderNameX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">187</Value>
+    </Setting>
+    <Setting Name="LeaderNameY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">318</Value>
+    </Setting>
+    <Setting Name="LeaderNameFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="PrintDialog" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RoomNoX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">405</Value>
+    </Setting>
+    <Setting Name="RoomNoY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">667</Value>
+    </Setting>
+    <Setting Name="RoomNoFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="PhoneNumberX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">405</Value>
+    </Setting>
+    <Setting Name="PhoneNumberY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">619</Value>
+    </Setting>
+    <Setting Name="PhoneNumberFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="LeaderPhoneNumberX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">360</Value>
+    </Setting>
+    <Setting Name="LeaderPhoneNumberY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">318</Value>
+    </Setting>
+    <Setting Name="LeaderPhoneNumberFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ReasonX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="ReasonY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">340</Value>
+    </Setting>
+    <Setting Name="ReasonFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="FileNamePrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">門限超過届_</Value>
+    </Setting>
+    <Setting Name="TimeYearX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">405</Value>
+    </Setting>
+    <Setting Name="TimeYearY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">710</Value>
+    </Setting>
+    <Setting Name="TimeMonthX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">443</Value>
+    </Setting>
+    <Setting Name="TimeMonthY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">710</Value>
+    </Setting>
+    <Setting Name="TimeDateX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">484</Value>
+    </Setting>
+    <Setting Name="TimeDateY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">710</Value>
+    </Setting>
+    <Setting Name="TimeFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginYearX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginYearY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginMonthX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">243</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginMonthY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginDateX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">280</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginDateY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateBeginFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndHour" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndTodayHour" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndTodayMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndTomorrowHour" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndTomorrowMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndMonthX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">335</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndMonthY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndDateX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">370</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndDateY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndHourX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">426</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndHourY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndMinuteX" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">466</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndMinuteY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">478</Value>
+    </Setting>
+    <Setting Name="ReturnDateEndFontSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
