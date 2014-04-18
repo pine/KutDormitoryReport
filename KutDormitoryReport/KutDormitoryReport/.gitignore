@@ -4,3 +4,4 @@ obj
 itextsharp.*
 *.dll
 *.pdf
+*.ttf
