@@ -20,13 +20,9 @@ namespace RobotClub.DormitoryReport
         public MainForm()
         {
             InitializeComponent();
-
-            this.Report = new DormitoryReport(DormitoryReportData.Empty);
-            this.DataStatus = new DormitoryReportDataStatus();
-            this.PdfFileName = null;
         }
 
-        public void SetData(DormitoryReportData data)
+        public void Show(DormitoryReportData data)
         {
             this.Report = new DormitoryReport(data);
             this.DataStatus = new DormitoryReportDataStatus();
