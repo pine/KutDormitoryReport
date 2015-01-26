@@ -28,7 +28,7 @@ namespace RobotClub.DormitoryReport
 
             var form = DormitoryReport.CreateWindow();
 
-            form.SetData(data);
+            form.Show(data);
             Application.Run(form);
         }
     }
